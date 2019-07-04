@@ -19,3 +19,7 @@ class biLSTM_CRF
 
     def train(self):
         pass
+
+
+def test():
+    pass
